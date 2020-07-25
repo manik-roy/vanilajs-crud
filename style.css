@@ -1,0 +1,29 @@
+body {
+  border: none;
+  background-color: #ffffff;
+  background-image: linear-gradient(to right, rgb(0, 180, 219), rgb(0, 131, 176));
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.dlticon {
+  cursor: pointer;
+  color: red
+}
+
+.editbtn {
+  cursor: pointer;
+  color: darkgreen;
+}
+
+.addFv {
+  cursor: pointer;
+  color: brown;
+}
+
+.redhert {
+  color: red;
+}
+.list-group-item {
+  border: none;
+}
